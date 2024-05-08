@@ -207,7 +207,7 @@ def convert(formula) :
             return disjuncts
             
 # Read the input file
-inputFile = open("sentences.txt")
+inputFile = open("testcases/sentences.txt")
 numSentences = -1
 sentences = []
 
